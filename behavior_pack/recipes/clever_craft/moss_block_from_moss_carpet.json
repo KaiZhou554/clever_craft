@@ -1,0 +1,28 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "clever_craft:moss_block_from_moss_carpet"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "AA",
+            "AA"
+        ],
+        "key": {
+            "A": {
+                "item": "minecraft:moss_carpet"
+            }
+        },
+        "unlock": [
+        {
+            "item": "minecraft:moss_carpet"
+        }
+        ],
+        "result": {
+            "item": "moss_block"
+        }
+    }
+}

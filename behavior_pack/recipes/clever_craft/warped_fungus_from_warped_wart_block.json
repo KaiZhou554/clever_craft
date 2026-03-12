@@ -1,0 +1,26 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "clever_craft:warped_fungus_from_warped_wart_block"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:warped_wart_block"
+      }
+    },
+	"unlock": [
+      {
+        "item": "minecraft:warped_wart_block"
+      }
+    ],
+    "result": {
+      "item": "minecraft:warped_fungus",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Clever Craft",
+    "description": "https://github.com/KaiZhou554/clever_craft",
+    "uuid": "66084055-96d3-4c9c-b311-73d91672d1ac",
+    "version": [1, 0, 1],
+    "min_engine_version": [1, 21, 40]
+  },
+  "modules": [
+    {
+      "description": "Enjoy these recipes!",
+      "type": "data",
+      "uuid": "0769c713-e8e9-46fd-a972-921946a19a4e",
+      "version": [0, 0, 1]
+    }
+  ]
+}

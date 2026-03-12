@@ -1,0 +1,32 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "clever_craft:ominous_trial_key_from_trial_key"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:trial_key",
+        "count": 1,
+        "data": 0
+      },
+      {
+        "item": "minecraft:ominous_bottle",
+        "count": 1
+      }
+    ],
+    "unlock": [
+      {
+        "tag": "minecraft:trial_key"
+      }
+    ],
+    "result": [
+      {
+        "item": "minecraft:ominous_trial_key"
+      }
+    ]
+  }
+}
