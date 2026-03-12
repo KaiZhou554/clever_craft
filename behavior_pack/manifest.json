@@ -4,7 +4,7 @@
     "name": "Clever Craft",
     "description": "https://github.com/KaiZhou554/clever_craft",
     "uuid": "66084055-96d3-4c9c-b311-73d91672d1ac",
-    "version": [1, 0, 1],
+    "version": [1, 1, 0],
     "min_engine_version": [1, 21, 40]
   },
   "modules": [
